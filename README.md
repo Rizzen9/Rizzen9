@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rizzen9a
+# 👋 Hi, I'm Rizzen9
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
