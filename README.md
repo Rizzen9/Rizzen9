@@ -37,10 +37,11 @@ Welcome to my GitHub! I'm a passionate **DevOps Engineer** with a strong focus o
 ---
 
 ## 📫 Let's Connect
+- https://x.com/iEmmanueel
+- info@synralabs.com
 
-- 🌐 [LinkedIn](https://linkedin.com/in/Rizzen9)
-- 🧰 [My DevOps Projects](https://github.com/Rizzen9?tab=repositories)
-- 📧 rizzen.devops@example.com *(replace with your real email)*
+
+
 
 ---
 
