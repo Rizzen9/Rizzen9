@@ -2,7 +2,7 @@
 
 ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Advocate
 
-Welcome to my GitHub! I'm a passionate **DevOps Engineer** with a strong focus on automating workflows, building scalable cloud-native systems, and integrating CI/CD pipelines for rapid and reliable software delivery.
+Welcome to my GitHub! I'm a passionate **DevOps Engineer** with a strong focus on automating workflows, building scalable cloud-native systems, and integrating CI/CD pipelines for rapid and reliable software delivery. My biggest project to date that has been approved by NVIDIA'S Inception program, SYNRA LABS
 
 ---
 
